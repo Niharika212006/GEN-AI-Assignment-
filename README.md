@@ -18,6 +18,10 @@ This repository contains Jupyter Notebooks covering foundational Generative AI, 
 - **Topic:** Word Embeddings
 - **Description:** Exploration of word vector representations, capturing syntactic and semantic relationships in vector spaces.
 
+### 4. `Intro_to_Vector_Databases_ChromaDB.ipynb`
+- **Topic:** Vector Databases & ChromaDB
+- **Description:** Introduction to vector stores, indexing and managing embeddings, and querying semantic similarity with ChromaDB.
+
 ---
 
 ## 🚀 Getting Started
@@ -32,7 +36,7 @@ To run these notebooks locally:
 
 2. Set up a virtual environment and install dependencies:
    ```bash
-   pip install notebook numpy scikit-learn transformers sentence-transformers
+   pip install notebook numpy scikit-learn transformers sentence-transformers chromadb
    ```
 
 3. Launch Jupyter Notebook:
