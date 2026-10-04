@@ -22,6 +22,14 @@ This repository contains Jupyter Notebooks covering foundational Generative AI, 
 - **Topic:** Vector Databases & ChromaDB
 - **Description:** Introduction to vector stores, indexing and managing embeddings, and querying semantic similarity with ChromaDB.
 
+### 5. `CRUD_Operations_ChromaDB.ipynb`
+- **Topic:** CRUD Operations with ChromaDB
+- **Description:** Practical guide to Create, Read, Update, and Delete operations on collections, embeddings, and metadata in ChromaDB.
+
+### 6. `RAG_Step1_Document_Loading_and_Chunking.ipynb`
+- **Topic:** RAG Step 1: Document Loading & Chunking
+- **Description:** Step-by-step pipeline demonstrating document ingestion (text and PDF formats via `docs/`) and various chunking strategies (fixed-size, LangChain CharacterTextSplitter, RecursiveCharacterTextSplitter, and token-based chunking with tiktoken).
+
 ---
 
 ## 🚀 Getting Started
@@ -36,7 +44,7 @@ To run these notebooks locally:
 
 2. Set up a virtual environment and install dependencies:
    ```bash
-   pip install notebook numpy scikit-learn transformers sentence-transformers chromadb
+   pip install notebook numpy scikit-learn transformers sentence-transformers chromadb langchain langchain-text-splitters tiktoken pypdf fpdf2
    ```
 
 3. Launch Jupyter Notebook:
