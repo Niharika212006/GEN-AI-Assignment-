@@ -32,6 +32,14 @@ This repository contains Jupyter Notebooks covering foundational Generative AI, 
 
 ---
 
+## 📑 Assessment & Project Reports (PDFs)
+
+- **`K_Niharika_99230040633_Assessment_Answers.pdf`** &mdash; Assessment questions, answers, and solutions.
+- **`K_Niharika_99230040633_Rule_Based_Chatbot.pdf`** &mdash; Rule-Based Chatbot implementation and report.
+- **`K_Niharika_Resume_Screening_Mini_Assessment_Report.pdf`** &mdash; Resume Screening Mini Assessment documentation and project report.
+
+---
+
 ## 🚀 Getting Started
 
 To run these notebooks locally:
